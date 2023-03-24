@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CollocInfer"]
+	path = CollocInfer
+	url = https://github.com/cran/CollocInfer
+	shallow = true
+	registered = true
